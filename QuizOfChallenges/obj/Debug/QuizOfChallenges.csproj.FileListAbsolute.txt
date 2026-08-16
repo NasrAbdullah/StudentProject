@@ -1,0 +1,14 @@
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\bin\Debug\QuizOfChallenges.exe.config
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\bin\Debug\QuizOfChallenges.exe
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\bin\Debug\QuizOfChallenges.pdb
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.csprojAssemblyReference.cache
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Form1.resources
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Properties.Resources.resources
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.csproj.GenerateResource.cache
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.csproj.CoreCompileInputs.cache
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.exe
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.pdb
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Form2.resources
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Form3.resources
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Form4.resources
+D:\Programming\C#\QuizOfChallenges\QuizOfChallenges\obj\Debug\QuizOfChallenges.Form5.resources
